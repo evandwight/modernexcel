@@ -16,7 +16,7 @@ ModernExcel aims to bring the modern programming standard of [linting](https://e
 
 * Use names not references
 
-> You can define names so instead of writing B1 you can write TAX_RATE.  This transforms your formulas from:
+>  Transform your formulas from:
 >
 > ```= B1 * B2```
 >
