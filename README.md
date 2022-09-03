@@ -14,19 +14,23 @@ ModernExcel aims to bring the modern programming standard of [linting](https://e
 
 ## Available recommendations
 
-### Use names not references
-You can define names so instead of writing B1 you can write TAX_RATE.  This transforms your formulas from:
-```= B1 * B2```
-To:
-```= TAX_RATE * SALARY```
+* Use names not references
+
+> You can define names so instead of writing B1 you can write TAX_RATE.  This transforms your formulas from:
+>
+> ```= B1 * B2```
+>
+> To:
+>
+> ```= TAX_RATE * SALARY```
 
 ## Coming soon recommendations
 
-### Use common styling for inputs and calculations
-### Use names for your columns
-### Use tables
-### Use match/index instead of vlookup
-### Use names for magic numbers
+* Use common styling for inputs and calculations
+* Use names for your columns
+* Use tables
+* Use match/index instead of vlookup
+* Use names for magic numbers
 
 ## Installation
 
