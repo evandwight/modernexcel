@@ -30,6 +30,6 @@ To:
 
 ## Installation
 
-1. Download [setup.zip]()
+1. Download [setup.zip](https://github.com/evandwight/modernexcel/raw/main/setup.zip)
 2. Right click setup.zip > properties > unblock
 3. Unzip and run setup.exe
