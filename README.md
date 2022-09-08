@@ -4,6 +4,8 @@ The typical Excel file is a mess. Modernize the files you inherit by automatical
 
 ModernExcel aims to bring the modern programming standard of [linting](https://en.wikipedia.org/wiki/Lint_(software)) to excel.
 
+# No further developer due to lack of interest
+
 # Getting started
 
 0. [Install the plugin](https://github.com/evandwight/modernexcel#Installation)
